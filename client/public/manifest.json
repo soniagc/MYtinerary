@@ -1,0 +1,25 @@
+{
+  "short_name": "MYtinerary",
+  "name": "MYtinerary Web App",
+  "icons": [
+    {
+      "src": "MYtineraryLogo.png",
+      "type": "image/png",
+      "sizes": "300x70"
+    },
+    {
+      "src": "homeIcon.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "circled-right-2.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    }	    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "white"
+}
